@@ -1,0 +1,23 @@
+/*
+*****************************************************************************
+						  Workshop - #6 
+Full Name  : CHIRAG GARG
+Student ID#: 143180214
+Email      : CGARG3@MYSENECA.CA
+Section    : NFF
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+***
+
+Reflection
+
+In this workshop, we have learnt the implementation of copy constructor and copy assignment operator that how we can assign the current object
+to the class type that is being copied and copying the values in the object which are being copied into the new allocated memory. We habve also
+learnt how to implement input and output operators i.e reading the values and displaying it using the class type. We have also implement the
+friend helper function to display the rewuired output. The issue I faced was with the load function. The way I implement the load function was
+not able to read all the values and the second careless mistake of mine at the first was i forgot to add one of the text files to my directory
+which was add.txt due to which i was getting some of the values wrong and some of them mixing. These were the common mistakes I had faced
+issue with. For the DIY part, it didnt took that long than LAB part for this workshop. 
