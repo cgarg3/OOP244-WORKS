@@ -1,0 +1,6 @@
+In this workshop, I have learnt how to code function templates and implement calls to function templates. Basically in this workshop, I have implemented two find() functions
+which helped us to find an element in an array of a collection that was given to us. However, in order to implement these find functions, we need an object of any
+collection type. We would use this object to store the element that we found. Also, we need an Array which contains values
+that we use to find elements in the object. Finally, we need the array where we will find the elements in. The find function is designed to be used with any type of collection
+because we have used function templates in the function definition. The main problem that I faced in this workshop is that I was getting some errors in the 3 argument find()
+template function. The reason behind getting this error was the order of the arguements was not correct.
