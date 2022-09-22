@@ -1,0 +1,7 @@
+﻿  Bar.cpp
+  BarChart.cpp
+  barTester.cpp
+  main.cpp
+  Generating Code...
+main.obj : error LNK2005: main already defined in barTester.obj
+D:\New folder\diy w3\x64\Debug\diy w3.exe : fatal error LNK1169: one or more multiply defined symbols found

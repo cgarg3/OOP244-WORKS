@@ -1,0 +1,13 @@
+--> In this reflection, I would be discussing about the logic I used in doing this workshop. In the lab, we declared the public functions inside the Army class to hold the
+    information for an Army and used the provided information for the implemention of these functions. For the variables, we have initialized them privately so that we cannot
+    use them globally out of the class function. We have been learning out how to create and declare the function to an empty state which helps us to remove all the garbage values
+    being there in the buffer. Later, ostream taking input from the user and storing it in our privately declared variable. This was done using the string library function. In this workshop,
+    we have used formatting conversions which helped us to precise our floating point fields to obtain our output under general format of 2. Even we have learned to check the validation of
+    the functions and how to format our output the way we want. Also, we have learned how to deallocate the memory of an array dynamically.
+
+--> The hardest part for this workshop was I forget to include a condition in if-else condition when I was displaying my barchart output, I forget to mention the condition that
+    the number of samples to set the bars should be equal to the size of bars, only then it gonna execute it. The condition is as follows :- 		if (isValid() && (trackOfNumber == sizeOfBars)).
+    I was able to find this mistake after debugging my functions one by one and going through the instruction and trying to include all my conditions.
+
+--> In this way, I did my workshop. I am trying to work on my logic skills as the lab part, i do not find it much difficult as compared to DIY part. Till now, the lab part,
+    I am able to complete it in one go, but for the DIY part, I have to keep reviewing the notes and then the lectures, then only I am being able to complete it on time.

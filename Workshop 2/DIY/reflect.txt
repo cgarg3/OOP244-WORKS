@@ -1,0 +1,26 @@
+/*
+*****************************************************************************
+						  Workshop - #2 (P1)
+Full Name  : CHIRAG GARG
+Student ID#: 143180214
+Email      : CGARG3@MYSENECA.CA
+Section    : NFF
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+Reflection:-
+
+In the beginning, I find it easy to do this part as some of the functions were similar to one I used in part 1. So, the starting was easy. Within few minutes, I have coded my first function
+as it was just to open and read the file and display the output. When I started writing my second function, it was one of the complex function I found in this workshop. I have spent most of 
+my time thinking of logic for this function. As i have to read Birth date of the employees and have to match it with the record we have in the provided .csv file, So for that , i have to begin
+reading the DOB of employee. So, starting with it, I used the same function (noOfRecords) we used in the previous part for this. It was used to record the size of the number of employees.
+Later, I used the load functions to read the name and DOB of the employee and later copy the name of the employee in the declared variable. Later, I defined three overload functions to read the month,
+day and year of the employee birth. Now, we finally read the month and if it matched, the output we obtained is true else it would be false if no records was found. Now, it was time to display the
+output in some representable way. So, we used sort function in which we declare that the output should be displayed in descending order. It was almost similar to the previous part. So, It took less time to write this code.
+At last, the functions were easy to write as it was just copy and paste the output to be dispayed in the displayBirthdays function. The deallocate function was used to deallocate the entire array memory. 
+Finally we have close the open file and printed the output on the screen.
