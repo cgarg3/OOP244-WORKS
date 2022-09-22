@@ -1,0 +1,25 @@
+*****************************************************************************
+                    Workshop - #5 (P2)
+Full Name  : CHIRAG GARG
+Student ID#: 143180214
+Email      : CGARG3@MYSENECA.CA
+Section    : NFF
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+*/
+
+Reflection of workshop 5
+
+--> In this workshop, I have learnt how I can implement different types of overload operator in the partially developed classes. Firstly talking about the LAB part,
+    I faced difficulty defining private member function called add_chapter in the Book module. For the operator functions, I took help of the notes provided and understood
+    the way they are being used and implemented those without any difficulty. Even, from the notes, I came to know about the types of these overload operators  which are
+    defined as unary and binary operators. In this lab part, we have defined unary operator overload i.e it has only one operand and it can either be postfix or prefix
+    operator overload. Secondly, we have learnt about the binary operator overload which we used in the DIY part to define and display our functions which includes two operands.
+    For the DIY part, it took me some time to understand the module and main file. First problem I faced was with the display function as we have to declare it in regard to the
+    main file and the other problem where I got stuck was with the += operator. I was not able to display the accurate value of power level. I forget to increement the value
+    of power everytime, just due to this, I was not able to get the exact output. Because of this, i got late submitting my part on time. But later, I gave myself some time
+    and then try to go through each of its step and finally resolve the error and able to display my output.   
